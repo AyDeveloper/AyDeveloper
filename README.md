@@ -1,4 +1,7 @@
-### Hi there 👋
+
+### Hi there!👋 I am Ayobami Pamilerin. 
+
+Meet Me: I'm a Web Develper, Music lover, Life-long-learner , Blockhain enthusiast and also interested in Technical writing at the moment...
 
 <!--
 **AyDeveloper/AyDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
