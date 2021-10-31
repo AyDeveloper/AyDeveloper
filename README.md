@@ -4,6 +4,16 @@
 
 Meet Me: I'm a Web Develper, Music lover, Life-long-learner , Blockhain enthusiast and also interested in Technical writing at the moment...
 
+
+### Check out some of my active projects hosted on Netlify 👇
+
+|      Project 💻   |     link  🖋️   | Brief Desc 👇  |  💸  |
+|-------------|-------------------|---|---|
+| [**Loadplay**] | (https://loadplay.netlify.app) | Customize pre-loaders for websites | [**Abeg tag**] pamiee |
+| [**Boliexpress**] | (https://boliexpress.netlify.app) | A website with a built-in cart system | [**Abeg tag**] pamiee |
+| [**Textditor**] | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text | [**Abeg tag**] pamiee |
+
+
 <!--
 **AyDeveloper/AyDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
