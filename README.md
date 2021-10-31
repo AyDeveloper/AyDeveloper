@@ -2,7 +2,7 @@
 
 ### Hi there!👋 I am Ayobami Pamilerin. 
 
-Meet Me: I'm a Web Develper, Music lover, Life-long-learner , Blockhain enthusiast and also interested in Technical writing at the moment...
+Meet Me: I'm a Web Develper, Music lover, Life-long-learner , Blockchain enthusiast and also interested in Technical writing at the moment...
 
 
 ### Check out some of my active projects hosted on Netlify 👇
@@ -12,6 +12,11 @@ Meet Me: I'm a Web Develper, Music lover, Life-long-learner , Blockhain enthusia
 | [**Loadplay**] | (https://loadplay.netlify.app) | Customize pre-loaders for websites | [**Abeg tag**] pamiee |
 | [**Boliexpress**] | (https://boliexpress.netlify.app) | A website with a built-in cart system | [**Abeg tag**] pamiee |
 | [**Textditor**] | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text | [**Abeg tag**] pamiee |
+
+## Connect with Me 🤝🏻
+|      Twitter 🐦:   |   Facebook 🌞   | Instagram 👇  |  Github 🧵 |
+|-------------|-------------------|---|---|
+| (https://twitter.com/ayobamiPP22) | (https://facebook.com/) | (https://instagram.com/) | (https://github.com/AYDeveloper) |
 
 
 <!--
