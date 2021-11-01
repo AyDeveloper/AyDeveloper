@@ -7,18 +7,18 @@ Meet Me: I'm a Web Develper, Music lover, Life-long-learner , Blockchain enthusi
 
 ### Check out some of my active projects hosted on Netlify 👇
 
-|      Project 💻   |     link  🖋️   | Brief Desc 👇  |  💸  |
-|-------------|-------------------|---|---|
-| [**Loadplay**] | (https://loadplay.netlify.app) | Customize pre-loaders for websites | [**Abeg tag**] pamiee |
-| [**Boliexpress**] | (https://boliexpress.netlify.app) | A website with a built-in cart system | [**Abeg tag**] pamiee |
-| [**Textditor**] | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text | [**Abeg tag**] pamiee |
+|      Project 💻   |     link  🖋️   | Brief Desc 👇  
+|-------------|-------------------|---|
+| [**Loadplay**] | (https://loadplay.netlify.app) | Customize pre-loaders for websites |
+| [**Boliexpress**] | (https://boliexpress.netlify.app) | A website with a built-in cart system |
+| [**Textditor**] | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text |
 
 ## Connect with Me 🤝🏻
 |      Twitter 🐦:   |   (https://twitter.com/ayobamiPP22)   |
 |-------------|-------------------|
 | Facebook |  (https://facebook.com/) |
 |Instagram|  (https://instagram.com/) |
-|Github|  (https://github.com/AYDeveloper) |
+|Github|  (https://github.com/AyDeveloper) |
 
 
 <!--
