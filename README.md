@@ -14,9 +14,11 @@ Meet Me: I'm a Web Develper, Music lover, Life-long-learner , Blockchain enthusi
 | [**Textditor**] | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text | [**Abeg tag**] pamiee |
 
 ## Connect with Me 🤝🏻
-|      Twitter 🐦:   |   Facebook 🌞   | Instagram 👇  |  Github 🧵 |
-|-------------|-------------------|---|---|
-| (https://twitter.com/ayobamiPP22) | (https://facebook.com/) | (https://instagram.com/) | (https://github.com/AYDeveloper) |
+|      Twitter 🐦:   |   (https://twitter.com/ayobamiPP22)   |
+|-------------|-------------------|
+| Facebook |  (https://facebook.com/) |
+|Instagram|  (https://instagram.com/) |
+|Github|  (https://github.com/AYDeveloper) |
 
 
 <!--
