@@ -2,7 +2,7 @@
 
 ### Hi there!👋 I am Ayobami Pamilerin. 
 
-Meet Me: I'm a Web Develper, Music lover, Life-long-learner , Blockchain enthusiast and also interested in Technical writing at the moment...
+Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learner , and also interested in Technical writing at the moment...
 
 
 ### Check out some of my active projects hosted on Netlify 👇
