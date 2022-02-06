@@ -22,7 +22,7 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aydeveloper&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=fff&locale=en&layout=compact&hide_border=true" alt="AyDeveloper" /> 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aydeveloper&show_icons=true&theme=dracula&title_color=ff8000&text_color=fff&bg_color=141321&locale=en&layout=compact&hide_border=true" alt="AyDeveloper" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyDeveloper&show_icons=true&theme=radical" alt="AyDeveloper" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyDeveloper&theme=highcontrast&hide_border=true" alt="AyDeveloper" />
 </p>
