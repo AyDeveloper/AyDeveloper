@@ -23,15 +23,15 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aydeveloper&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="AyDeveloper" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyDeveloper&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="AyDeveloper" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyDeveloper&show_icons=true&theme=radical&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="AyDeveloper" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyDeveloper&theme=highcontrast&hide_border=true" alt="AyDeveloper" />
 </p>
 
-
-
-![AyDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyDeveloper&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyDeveloper&layout=compact)](https://github.com/AyDeveloper/github-readme-stats)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AyDeveloper&theme=dracula&hide_border=true)
+
+[![AyDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyDeveloper&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyDeveloper&layout=compact)](https://github.com/AyDeveloper/github-readme-stats)](url)
+
+
 
