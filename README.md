@@ -29,3 +29,4 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AyDeveloper&theme=dracula&hide_border=true)
 
+![Twitter URL](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FayobamiPP22)
