@@ -29,4 +29,6 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AyDeveloper&theme=dracula&hide_border=true)
 
-![Twitter URL](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FayobamiPP22)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FayobamiPP22)
+
+![stack Overflow]("https://www.flaticon.com/premium-icon/twitter_4494477?term=social%20media&page=1&position=14&page=1&position=14&related_id=4494477&origin=tag")
