@@ -24,7 +24,11 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 ![AyDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyDeveloper&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyDeveloper&layout=compact)](https://github.com/AyDeveloper/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyDeveloper&repo=github-readme-stats)](https://github.com/Aydeveloper/github-readme-stats)
 <!--
+
+
 **AyDeveloper/AyDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
