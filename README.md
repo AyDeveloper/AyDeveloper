@@ -14,11 +14,7 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 | **Textditor** | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text |
 
 ## Connect with Me 🤝🏻
-|      Twitter 🐦:   |   (https://twitter.com/ayobamiPP22)  |
-|-------------|-------------------|
-| Facebook |  (https://facebook.com/) |
-|Instagram|  (https://instagram.com/) |
-|Github|  (https://github.com/AyDeveloper) |
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyDeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AyobamiPP22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ayoayobami.netlify.app)  
 
 ## Stats📈
 <p align="center">
@@ -29,5 +25,4 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AyDeveloper&theme=dracula&hide_border=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyDeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AyobamiPP22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ayoayobami.netlify.app)  
 
