@@ -25,7 +25,7 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyDeveloper&layout=compact)](https://github.com/AyDeveloper/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyDeveloper&repo=github-readme-stats)](https://github.com/Aydeveloper/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyDeveloper&repo=github-readme-stats)](https://github.com/AyDeveloper/github-readme-stats)
 <!--
 
 
