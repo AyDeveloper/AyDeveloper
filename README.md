@@ -14,7 +14,7 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 | [**Textditor**] | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text |
 
 ## Connect with Me 🤝🏻
-|      Twitter 🐦:   |   (https://twitter.com/ayobamiPP22)   |
+|      Twitter 🐦:   |   (https://twitter.com/ayobamiPP22) https://www.flaticon.com/premium-icon/twitter_4494477?k=1644198881863   |
 |-------------|-------------------|
 | Facebook |  (https://facebook.com/) |
 |Instagram|  (https://instagram.com/) |
