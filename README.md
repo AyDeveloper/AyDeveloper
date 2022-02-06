@@ -9,9 +9,9 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 
 |      Project 💻   |     link  🖋️   | Brief Desc 👇  
 |-------------|-------------------|---|
-| [**Loadplay**] | (https://loadplay.netlify.app) | Customize pre-loaders for websites |
-| [**Boliexpress**] | (https://boliexpress.netlify.app) | A website with a built-in cart system |
-| [**Textditor**] | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text |
+| **Loadplay** | (https://loadplay.netlify.app) | Customize pre-loaders for websites |
+| **Boliexpress** | (https://boliexpress.netlify.app) | A website with a built-in cart system |
+| **Textditor** | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text |
 
 ## Connect with Me 🤝🏻
 |      Twitter 🐦:   |   (https://twitter.com/ayobamiPP22)  |
