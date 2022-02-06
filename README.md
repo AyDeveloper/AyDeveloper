@@ -29,8 +29,3 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AyDeveloper&theme=dracula&hide_border=true)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyDeveloper&layout=compact)](https://github.com/AyDeveloper/github-readme-stats)]
-
-
-
