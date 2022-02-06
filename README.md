@@ -29,4 +29,5 @@ Meet Me: I'm a Web Develper, Blockchain Developer, Music lover, Life-long-learne
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AyDeveloper&theme=dracula&hide_border=true)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyDeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AyobamiPP22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ayoayobami.netlify.app)  
 
