@@ -2,18 +2,10 @@
 
 ### Hi there!👋 I am Ayobami Pamilerin. 
 
-Meet Me: I'm a Web Develper
-- 🌱 I’m currently learning Blockchain Development 
+Meet Me: I'm a Smart Contract Developer and Frontend Developer.
+- 🌱 I’m open to building scalable solutions in the web3 space
 - ⚡ Fun fact: I love playing bass guitar 
 
-
-### Check out some of my active projects hosted on Netlify 👇
-
-|      Project 💻   |     link  🖋️   | Brief Desc 👇  
-|-------------|-------------------|---|
-| **Loadplay** | (https://loadplay.netlify.app) | Customize pre-loaders for websites |
-| **Boliexpress** | (https://boliexpress.netlify.app) | A website with a built-in cart system |
-| **Textditor** | (https://textditor.netlify.app) | Got inspired to build something like MS Word but on a small scale. Textditor allows basic edits on text |
 
 ## Connect with Me 🤝🏻
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyDeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AyobamiPP22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/AyDeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ayoayobami.netlify.app)  
