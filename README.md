@@ -1,4 +1,5 @@
-![TwitterHeader](https://raw.githubusercontent.com/AyDeveloper/AyDeveloper/main/twitter%20header%20(1).png)
+![twitter header (2)](https://user-images.githubusercontent.com/72970379/159280798-8134505c-603b-47bc-a1d5-b44d871780c1.png)
+
 
 ### Hi there!👋 I am Ayobami Pamilerin. 
 
