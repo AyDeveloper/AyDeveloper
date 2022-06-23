@@ -3,7 +3,7 @@
 
 ### Hi there!👋 I am Ayobami Pamilerin. 
 
-Meet Me: I'm a Smart Contract Developer and Frontend Developer.
+Meet Me: I'm a Smart Contract Developer.
 - 🌱 I’m open to building scalable solutions in the web3 space
 - ⚡ Fun fact: I love playing bass guitar 
 
